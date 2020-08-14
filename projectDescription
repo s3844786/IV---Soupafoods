@@ -6,13 +6,13 @@ the additional features that are included into the application will help the use
 from the shops, what products are on special as well as offering a recipe section of what food they can make with 
 the ingredients that they have on hand. Some examples of these features include: the ability to monitor the number 
 of items in the household, expiry date tracker, recommended recipe section along with some additional features.</p>
-<br>
+
 <p>Some functions that will be implemented into our grocery application are a grocery list, expiry date tracker, 
 suggested recipes (based on the ingredients that the customer has) and catalogue section where the specials can 
 be located or even be compared to other grocery stores. There are many features that we would like to implement 
 into our application, however, we would like to make it as unique as possible with the maximum amount of features 
 that will help assist the customer while not overwhelming the customers with too many features.</p>
-<br>
+
 <p>As a grocery application, it is necessary for the customer to be able to have a list of items they would need to 
 buy as it will come in handy if they forget what item they need to buy. Additionally, it would be helpful for the 
 customer to identify how many of these items they have on hand or what they have at home, which will be convenient 
@@ -22,7 +22,7 @@ application provides a recipe feature of recipes that the user can make with the
 maximise the customers time, a catalogue section is provided where they can access the weekly catalogue of each 
 supermarket. To maximise the use of the application with others in the family, the application can sync with other 
 devices that are connected to the same group so they will not be any more double ups of items bought!</p>
-<br>
+
 <p>In a scenario where the user would use this app, we would need to put ourselves in the shoes of a user that is 
 using this application. For example, as a shopper, I want to have a list of items, so I can know whether I would 
 like to buy the item or not. As a shopper, I want to see what is special at different supermarkets, so I can 
