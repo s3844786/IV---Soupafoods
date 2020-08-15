@@ -1,0 +1,15 @@
+
+<p> 
+<img src="me.jpg" widht="300" height="400">
+<img src="me.jpg" widht="200" height="300">
+<p>
+
+<p>Name:TINGYU GONG
+</p>
+<p>Student ID：s3678272
+</p>
+<p>Email Address: s3678272@student.rmit.edu.au
+</p>
+
+<p>I come from Hefei, a small city in central China. My hobby is to browse review videos and reports on various mobile phones and computers. Whenever a new product is released, I am very excited to compare their screens, processors, and various parameters. It is precisely because of this that I chose this course, or that I chose this major. I hope that the university courses can help me further understand the internal structure and software algorithms of these electronic products, and take it as my future Development goals, become a professional commentator, or join these technology companies. I have only learned the introductory knowledge about Java and some simple UI design. My interest may be more biased towards programming languages. I think the UI of a product is very important, but its core idea, what it can do/bring for users, is the most important. I think that in my next college career, I can learn more programming courses and get some practical opportunities, which will provide me a lot of help in teamwork and personal projects.</p>
+
