@@ -1,0 +1,28 @@
+<h2>Meeting table</h2>
+    <table>
+        <tr>
+            <th>Date of meeting</th>
+            <th>Link to meeting recording</th>
+            <th>Link to summary of meeting</th>
+        </tr>
+        <tr>
+           <td>3/8/20</td> 
+           <td><a href="https://web.microsoftstream.com/video/6e7d7703-c526-451b-ace3-c0e53309a835" target="_blank">Link to meeting 1</a></td>
+           <td><a href="https://gyazo.com/d83d8ef4b9129e9f87dc7e1bf425043b" target="_blank">Link to summary of meeting 1</a></td>
+        </tr>
+        <tr>
+            <td>6/8/20</td>
+            <td><a href="https://web.microsoftstream.com/video/bdae8b05-887e-4d8f-8f22-1aa2a8aa46c0" target="_blank">Link to meeting 2</a></td>
+            <td><a href="https://gyazo.com/ad8a7d8b4c7407871766e7b483547b6e" target="_blank">Link to summary of meeting 2</a></td>
+        </tr>
+        <tr>
+            <td>11/8/20</td>
+            <td><a href="https://web.microsoftstream.com/video/95d99b25-8545-4c5c-af2e-833e975fa7d4" target="_blank">Link to meeting 3</a></td>
+            <td><a href="https://gyazo.com/5756c17ab8379d3875469f2b2ef5307e" target="_blank">Link to summary of meeting 3</a></td>
+        </tr>
+        <tr>
+            <td>13/8/20</td>
+            <td><a href="https://web.microsoftstream.com/video/9e9fe9cd-af4c-4239-a310-a3483c890637" target="_blank">Link to meeting 4</a></td>
+            <td><a href="https://gyazo.com/7d00a2de129a2d60ce1d2fd3204a7cbd" target="_blank">Link to summary of meeting 4</a></td>
+        </tr>
+    </table>
