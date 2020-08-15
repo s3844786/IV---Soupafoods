@@ -1,0 +1,16 @@
+
+<h2>Minimal Viable Features:</h2>
+<p>Recipes:
+
+We have built-in thousands of nutritional recipes, which are classified strictly according to many factors such as food types, calories, styles of different countries, and cooking time, so that users can directly select the recipe they need to cook according to the index mark. After choosing any recipe, it clearly displays the required ingredients, seasonings, nutritional value table, cooking time and feedback and evaluation of users who have tried the recipe. When the food that the user wants to cook happens to be that we don't have this recipe, the program will directly launch the system browser and help the user search on the Internet. We also help some special people (such as: Vegan, Gluten free, Lactose free). When users submit ingredients that they are allergic to or cannot eat for some reason, the recipes containing these ingredients are automatically filtered to prevent users from eating them without their knowledge. The user can also first select the food style of a certain country and enter the number of people to eat. The system will automatically allocate recipes with high praise rates to users.
+ </p>
+ 
+ <p>Promo Catalog:
+
+With the user's consent, we will locate the user's location, search for nearby large supermarkets, and push weekly discounts to the user. Categorize discount strength, product types, and shelf life time to give users a better experience. We will also actively cooperate with some large international supermarkets or local small supermarkets to promote their discount products and attract popularity. At the same time, these supermarkets are also required to provide additional discount coupons to be distributed to users through our software to achieve a win-win effect.
+</p>
+
+<p>Shopping list and your Pantry connectivity:
+  
+First of all, the time for each family to purchase food is not fixed. Some families need to buy food every day, while others only buy it once a week. We need users to input the average time they go out to buy food products, and make a nutritional match for the food purchased during that time. The program will display the energy, vitamins, carbohydrates and other nutritional factors that need to be taken in each day, based on the number of people in the family, in the form of a list. In addition, the food pairing are given for users to refer to and screen. When users buy condiments or daily necessities (milk, bread, rice, etc.), they can make notes in the software. The software will calculate the daily consumption and inform the user in advance that the daily necessities at home are insufficient and need to be re- buy.
+</p>
