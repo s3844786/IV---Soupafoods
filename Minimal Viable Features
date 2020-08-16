@@ -1,0 +1,21 @@
+<h2>Minimal Viable Features:</h2>
+<p>Shopping List:
+
+In this feature, users can create a shopping list by themselves. The list contains some items we have already provided,
+but users can add new items according to their own needs. Users can mark favorite items so they can easily find and add
+these items to their shopping list. Not only that, users can also share their shopping list with their family or friends.
+In addition, users only need to click on the calendar so they can add a shopping list on any day. When this day is 
+almost there, users will receive a reminder that contains the information about  what they need to buy.
+ </p>
+ 
+<p> Your Pantry:
+
+This feature can display the items that the user has added, the unit price and quantity will be provided behind each item, 
+and the total price will be displayed at the end of the list. This feature can also help users view the purchase history 
+of the last week, month, and year. Of course, users can also choose to hide or delete the purchase history. This feature
+can also draw a bar graph to show the change of consumption over time.
+</p>
+<p>Expiration date tracker:
+
+The user initially needs to scan the barcode of the item, and then the detailed information of the item will appear,then 
+users can choose to save the information. When the item is about to expire, the user will receive a message.</p>
