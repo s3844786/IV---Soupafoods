@@ -1,0 +1,28 @@
+
+<h2>Your Pantry</h2>
+
+<p>
+In this interface, the user can manually add the ingredients and condiments already in the kitchen, the specific quantity and quality, and calculate according to the daily consumption of the household population to estimate the time period of each food (including condiments) Will be consumed, and remind users three days in advance. Although most users cook in the kitchen every day, they can directly observe the consumption of ingredients and replenish them. This part of the users may feel that this function is more tasteless. But every ingredient has a different shelf life, such as milk, bread and other common foods. When the user has not consumed these foods when they are approaching the expiration date, the software will remind the user to replace them in time to avoid eating them after the expiration date.
+</p>
+
+<p>
+In addition, we will upload all the ingredients added by the user in the past year (by date index) to the Cloud, and check the market price and food one-to-one correspondence. And the system will draw a table to record changes over time. The advantage of this is that users can check which ingredients they have purchased in the past at any time, and can even meet the needs of the kitchen account book.
+
+</p>
+<h3>Scenario</h3>
+
+<p>
+Jerry is a 38-year-old single employee. Due to work needs, he goes to work very early almost every day and comes home very late at night. He rarely has time to eat at home. Nevertheless, he still likes to cook at home, and whenever he is free, he will go to the supermarket to buy a lot of foods. But he often forgets how long the vegetables are left, and does not know whether the bread and milk in the refrigerator have gone bad. This makes him very distressed. He hopes to remind him in any way...... 
+</p>
+
+<p>
+When he used our software and clicked on the interface of Your pantry, he clearly found that he only needs to add the name and quantity of the purchased ingredients to the program after shopping, and the system will automatically help him record the preservation time. 3-5 days before the ingredients expire, the software will send a push to Jerry's mobile phone to remind Jerry that some food in the kitchen and refrigerator will expire and cannot be used, and he needs to go to the supermarket again to buy fresh ingredients. Jerry can also judge his shopping frequency and what foods he often needs to buy based on the time and type of ingredients added before. Jerry believes that this software has helped him solve many problems about kitchen ingredients and greatly improved his quality of life. He is very satisfied.
+</p>
+
+<p> 
+<img src="Design Sketch1.png" widht="600" height="800">
+<p>
+
+<p> 
+<img src="Design Sketch2.png" widht="600" height="800">
+<p>
