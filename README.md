@@ -98,7 +98,7 @@ In addition, we will upload all the ingredients added by the user in the past ye
 <h3>Scenario</h3>
 
 <p>
-Jerry is a 38-year-old single employee. Due to work needs, he goes to work very early almost every day and comes home very late at night. He rarely has time to eat at home. Nevertheless, he still likes to cook at home, and whenever he is free, he will go to the supermarket to buy a lot of foods. But he often forgets how long the vegetables are left, and does not know whether the bread and milk in the refrigerator have gone bad. This makes him very distressed. He hopes to remind him in any way......
+Jerry is a 38-year-old single employee. Due to work needs, he goes to work very early almost every day and comes home very late at night. He rarely has time to eat at home. Nevertheless, he still likes to cook at home, and whenever he is free, he will go to the supermarket to buy a lot of foods. However, he often bought a lot of food. Due to the uncertainty of work, he could not go home on time for a period of time. He could only eat in the company cafeteria or order takeaway every day, which led to the deterioration of many foods he just bought. This makes him very distressed. He hopes to remind him in any way......
 </p>
 
 <p>
